@@ -25,6 +25,7 @@ The following people have contributed substantially to the work of creating the 
 * Hannes Wallnoefer
 * Mike Wilson
 * Ondrej Zara
+* Chris Zumbrunn
 * Kris Zyp
 
 My apologies to any contributor whose name was omitted. With thousands of messages of discussion during 2009, there are many people who have come and pitched in to the project with their ideas.
