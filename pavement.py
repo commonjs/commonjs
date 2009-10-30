@@ -16,7 +16,7 @@ def initial():
     venv_command = "Scripts/activate.bat" if sys.platform == 'win32' \
         else "source bin/activate"
         
-    print """This is the source for the JSHQ.org/CommonJS website.
+    print """This is the source for the CommonJS website.
 
 You can build the website, by running these two commands (the
 result will be in _site):

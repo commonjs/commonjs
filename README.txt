@@ -1,1 +1,1 @@
-The JSHQ Website and Official Specs for CommonJS
+The Official Specs for CommonJS
