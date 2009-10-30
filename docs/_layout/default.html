@@ -16,7 +16,7 @@
 	margin-left: 42px;
 	margin-top: 180px;
 }
-{% if page.urlparts|first == "commonjs" %}
+{% if page.urlparts|first == "impl" %}
 .nav2 {
 	background-image: url({{page.root}}images/nav_commonjs_on.png); /*turn on the corresponding nav item*/
 }
@@ -27,7 +27,7 @@
 	background-image: url({{page.root}}images/banner_green.jpg); /*change the color of the bg image*/
 }
 {% endif %}
-{% if page.urlparts|first == "javascript" %}
+{% if page.urlparts|first == "0.1" %}
 .nav1 {
 	background-image: url({{page.root}}images/nav_js_on.png); /*turn the corresponding nav item on*/
 }
@@ -36,17 +36,6 @@
 }
 .content {
 	background-image: url({{page.root}}images/banner_blue.jpg);  /*change the color of the bg image*/
-}
-{% endif %}
-{% if page.urlparts|first == "browsers" %}
-.nav3 {
-	background-image: url({{page.root}}images/nav_browsers_on.png); /*turn on the corresponding nav item*/
-}
-.content-left h1 {
-	color: #8d6125; /*change the color of page headers*/
-}
-.content {
-	background-image: url({{page.root}}images/banner_orange.jpg); /*change the color of the bg image*/
 }
 {% endif %}
 </style>
