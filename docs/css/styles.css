@@ -40,8 +40,8 @@ body {
 }
 img.logo {
 	float: left;
-	margin-top: 15px;
-	margin-left: 15px;
+	margin-top: 24px;
+	margin-left: 0px;
 }
 .nav_wrapper {
 	float: right;
