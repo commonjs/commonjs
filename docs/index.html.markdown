@@ -14,7 +14,9 @@ The CommonJS API will fill that gap by defining APIs that handle many common app
 * Command line tools
 * Desktop GUI-based applications
 * Hybrid applications (Titanium, Adobe AIR)
-    
+
+Read an [additional introduction by Kris Kowal at Ars Technica](http://arstechnica.com/web/news/2009/12/commonjs-effort-sets-javascript-on-path-for-world-domination.ars).
+
 Current version: [0.1](specs/0.1.html)
 In development: [0.5](specs/0.5.html)
     
