@@ -15,8 +15,8 @@ The CommonJS API will fill that gap by defining APIs that handle many common app
 * Desktop GUI-based applications
 * Hybrid applications (Titanium, Adobe AIR)
     
-Current version: [0.1](0.1/index.html)
-In development: [0.5](0.5/index.html)
+Current version: [0.1](specs/0.1.html)
+In development: [0.5](specs/0.5.html)
     
 Implementations
 ---------------
