@@ -1,4 +1,3 @@
-
 // From Node.js test/mjsunit/test-assert.js
 // Felix Geisendörfer (felixge), backported from NodeJS
 // Karl Guertin (greyrest), backported from NodeJS
@@ -159,5 +158,5 @@ exports['test throw AssertionError'] = function () {
 };
 
 if (module == require.main)
-    require("os").exit(require("test").run(exports));
+    require("test").run(exports);
 
